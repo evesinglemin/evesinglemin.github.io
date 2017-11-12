@@ -1,0 +1,64 @@
+body {
+  background-color: #fbf7ff;
+}
+.profile-pic {
+	max-width: 100%;
+}
+.profile-title {
+	color: #fc92cb;
+	font-weight: bold;
+	font-family: 'Special Elite', cursive;
+}
+.intro {
+	font-family: 'Indie Flower', cursive;
+}
+.me {
+	font-family: 'Libre Barcode 39 Text', cursive;	
+	font-size: 200%;
+}
+.intro2 {
+	font-family: 'Indie Flower', cursive;
+}
+.card-title {
+	font-family: 'Libre Barcode 39 Text', cursive;	
+	font-size: 200%;
+	text-align: center;
+}
+.infoo1 {
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+}
+.infoo2 {
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+}
+.label {
+	font-family: 'Libre Barcode 39 Text', cursive;	
+	font-size: 200%;
+}
+.happiness-progress {
+	background-color: #c9a8ed; 
+}
+.description {
+  background-image: url("../img/imageedit_2_3225551862.jpg");
+  background-repeat: repeat-x;
+}
+.my-nav {
+	background-color: #fc8f80;
+}
+.navbar-brand {
+	font-family: 'Satisfy', cursive;
+	font-size: 200%;
+	color: #a32222;
+}
+.nav-link {
+	font-family: 'Cantata One', serif;
+	font-size: 120%;
+	color: #a32222;
+}
+.no-bg {
+	background: none;
+}
+.backgroundpic {
+	background-image: url("../img/img_4680.JPG");
+}
